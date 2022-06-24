@@ -27,3 +27,7 @@ Para compilar e rodar: go run hello.go
 Para corrigir problemas de referencia de packages ou para possibilitar rodar packages fora do GO_HOME:
 
 "go mod init"
+
+# Imagens
+
+![TelaPrincipal](Captura.PNG)
