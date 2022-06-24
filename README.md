@@ -13,10 +13,10 @@ Para executar o programa é necessário:
 
 # Recursos abordados
 
-*Switch case.
-*Funções.
-*Leitura de arquivo.
-*Escrita de arquivo.
+* Switch case.
+* Funções.
+* Leitura de arquivo.
+* Escrita de arquivo.
 
 
 # Compilar e roda
