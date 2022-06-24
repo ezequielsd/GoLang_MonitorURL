@@ -30,4 +30,4 @@ Para corrigir problemas de referencia de packages ou para possibilitar rodar pac
 
 # Imagens
 
-![TelaPrincipal](Captura.PNG)
+![Captura](Captura.PNG)
